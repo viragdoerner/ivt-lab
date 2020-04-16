@@ -88,8 +88,13 @@ public class GT4500 implements SpaceShip {
           firingSuccess = secondaryTorpedoStore.fire(1);
           wasPrimaryFiredLast = false;
         }
+<<<<<<< HEAD
         //modositas az A ágból
         
+=======
+        
+//modositas B ágból        
+>>>>>>> branch-B
 
         break;
     }
