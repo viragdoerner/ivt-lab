@@ -89,7 +89,7 @@ public class GT4500 implements SpaceShip {
           wasPrimaryFiredLast = false;
         }
         
-        
+//modositas B ágból        
 
         break;
     }
