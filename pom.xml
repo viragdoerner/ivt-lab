@@ -10,7 +10,6 @@
 		<sonar.projectKey>viragdoerner_ivt-lab</sonar.projectKey>
 		<sonar.organization>viragdoerner</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>ef1937c36c17c78510cce22fa13c90e6f2ad2f5c</sonar.login>
 	</properties>
 
 	<dependencies>
